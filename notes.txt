@@ -17,4 +17,5 @@ SKILLS
 creating a pandas dataframe from csv 
 color - i'll ADD a column to not have to do this in some weird way while generating the plot
 
-
+ok got real csv lets look
+also why not just do jypyter nb here

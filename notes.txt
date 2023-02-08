@@ -4,11 +4,17 @@ notes are about what im forgetting i guess
 create a dict from lists
     ZIP method on dict type
 
-
 dict(zip(keys,values))
 dict() creates an empty dict
 zip(keys,values) puts those together
 
 zip is a dict method
+
+NOPE doing the Unguided one, there is an insurmountable error in the Netflix one having to do w the jupyter notebook not finding the correct stuff
+
+SKILLS
+
+creating a pandas dataframe from csv 
+color - i'll ADD a column to not have to do this in some weird way while generating the plot
 
 

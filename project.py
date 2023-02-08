@@ -5,6 +5,9 @@ import numpy as np
 import pandas as pd
 
 
+# read csv into a dataframe so i can see data
+office = pd.read_csv("datasets/office.csv")
+
 #         A title, reading "Popularity, Quality, and Guest Appearances on the Office"
 plt.title("Popularity, Quality, and Guest Appearances on the Office")
 

@@ -1,0 +1,14 @@
+oh. this is a project, 
+notes are about what im forgetting i guess
+
+create a dict from lists
+    ZIP method on dict type
+
+
+dict(zip(keys,values))
+dict() creates an empty dict
+zip(keys,values) puts those together
+
+zip is a dict method
+
+

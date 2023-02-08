@@ -1,10 +1,7 @@
 # Create a matplotlib scatter plot of the data that contains the following attributes:
-
 import matplotlib as plt
 import numpy as np
 import pandas as pd
-
-
 ########################### DATA STRUCTURES PREP
 
 ##initalize a matplotlib.pyplot fig object, which you can do using the code fig = plt.figure()

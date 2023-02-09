@@ -19,3 +19,19 @@ color - i'll ADD a column to not have to do this in some weird way while generat
 
 ok got real csv lets look
 also why not just do jypyter nb here
+
+NEXT need CRUD operations on all the datatypes i know about
+Do i have the followig encoded in flashcards?
+
+DICT CREATE
+#### zipping lists to create a dictionary
+    keys = ['a', 'b', 'c']
+    values = [1, 2, 3]
+xdict = zip(keys, values)
+
+
+DICT read
+get value given the key
+get key given the value - must loop over all
+
+loop over all dict?
